@@ -1,10 +1,9 @@
 # API REST de cadastro de usuários
 
 O objetivo dessa API é servir uma rede social e oferecer como pricipais funcionalidades:
-	<div align="center">
-		- Acesso a informações sobre usuário(s);<br>
-		- Gerenciamento de cadastro de usuários: adicionar, remover, atualizar cadastro de usuário;	
-	</div>
+	
+- Acesso a informações sobre usuário(s);
+- Gerenciamento de cadastro de usuários: adicionar, remover, atualizar cadastro de usuário;	
 
 Esse projeto é resultado do desafio final do processo seletivo Zup Bootcamp.
 
